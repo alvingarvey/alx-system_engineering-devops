@@ -1,0 +1,2 @@
+#!/bin/bash
+find . '-type d -type f' -empty | wc -l | ls -a | cat /n
